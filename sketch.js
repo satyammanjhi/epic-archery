@@ -10,10 +10,10 @@ var PlayerBase,ComputerBase,ComputerPlayer,backgroundImg,backgroundImg2,Computer
 
 function preload(){
 
-  backgroundImg = loadImage("./assets/base2.png");
-  backgroundImg2 = loadImage("./assets/base1.png");
-  ComputerPlayerImg = loadImage("./assets/player.png");
-  playerImg = loadImage("./assets/player.png");
+  backgroundImg = loadImage("base2.png");
+  backgroundImg2 = loadImage("base1.png");
+  ComputerPlayerImg = loadImage("player.png");
+  playerImg = loadImage("player.png");
 
 }
 
